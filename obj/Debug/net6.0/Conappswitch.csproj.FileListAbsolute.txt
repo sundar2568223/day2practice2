@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\bin\Debug\net6.0\Conappswitch.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\bin\Debug\net6.0\Conappswitch.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\bin\Debug\net6.0\Conappswitch.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\bin\Debug\net6.0\Conappswitch.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\bin\Debug\net6.0\Conappswitch.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\refint\Conappswitch.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\Conappswitch.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn\Day2\Conappswitch\obj\Debug\net6.0\ref\Conappswitch.dll
